@@ -1,0 +1,2 @@
+C:\Users\max\Desktop\ООП\Лаба2\OOP Lab2\OOP_lab2\Debug\OOP_lab2.exe
+C:\Users\max\Desktop\ООП\Лаба2\OOP Lab2\OOP_lab2\Debug\OOP_lab2.pdb
