@@ -1,5 +1,0 @@
-﻿  Position.cpp
-C:\Users\max\Desktop\ООП\Лаба2\OOP Lab2\OOP_lab2\Position.cpp(128,12): warning C4101: e: неиспользованная локальная переменная
-C:\Users\max\Desktop\ООП\Лаба2\OOP Lab2\OOP_lab2\Position.cpp(232,11): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
-C:\Users\max\Desktop\ООП\Лаба2\OOP Lab2\OOP_lab2\Position.cpp(233,11): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
-  OOP_lab2.vcxproj -> C:\Users\max\Desktop\ООП\Лаба2\OOP Lab2\OOP_lab2\Debug\OOP_lab2.exe
